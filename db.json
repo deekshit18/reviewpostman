@@ -1,18 +1,14 @@
 {
-  "employee": [
+  "reviews": [
     {
-      "id": "3",
-      "empname": "athul",
-      "email": "athul@gmail.com",
-      "designation": "manager",
-      "url": "https://cdn1.iconfinder.com/data/icons/avatar-3/512/Manager-512.png"
+      "name": "ramu",
+      "review": "good",
+      "star": "3"
     },
     {
-      "id": "4",
-      "empname": "Amal",
-      "email": "Amal@gmail.com",
-      "designation": "Frontend Developer",
-      "url": "https://cdn1.iconfinder.com/data/icons/avatar-2-2/512/Employee-1024.png"
+      "name": "ramutten",
+      "review": "vgood",
+      "star": "4"
     }
   ]
 }
